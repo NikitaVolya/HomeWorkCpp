@@ -1,0 +1,15 @@
+---------------------------
+Bus number     : 1
+Driver         : Nikita
+Route          : 113
+Seats number   : 20
+---------------------------
+Bus number     : 5
+Driver         : Vlad
+Route          : 150
+Seats number   : 20
+---------------------------
+Bus number     : 10
+Driver         : Oleg
+Route          : 120
+Seats number   : 30
